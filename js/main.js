@@ -8,11 +8,11 @@ let rest= document.querySelector('.rest')
 let qs = document.querySelector('.questions')
 
 
-start.onclick = function (){
+start.onchange = function (){
     q1=Number(start.value);
 
 }
-end.onclick = function (){
+end.onchange= function (){
     q2=Number(end.value);
 }
 
