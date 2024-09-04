@@ -1,0 +1,78 @@
+*{
+
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+    margin: 0;
+    padding: 0;
+}
+body
+{
+background-color: #4363f1;;
+position: relative;
+height: 100vh;
+padding:10px 20px;
+background-image:  url("../images/—Pngtree—islamic\ pattern\ pattern\ background\ simple_1344696.png");
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center;
+background-attachment:fixed;
+}
+
+.head {
+    width: 250px;
+    text-align: center;
+    margin: 0x auto;
+    padding:  20px;
+    margin: auto;
+
+}
+img {
+    width: 100%;
+}
+
+.que {
+
+padding: 10px;
+margin-top: 5px;
+font-size: 18px;
+color: black ;
+font-weight: bold;
+line-height: 2;
+background-color: #125c708a;
+
+}
+main
+{
+    /* background-color: #844b7e; */
+}
+.questions {
+
+    width: fit-content;
+    width: calc(100%-20px);
+
+}
+.create , .rest {
+border-radius: 1px;
+padding: 5px;
+font-size: 18px;
+background-color: #d4a956;
+border:solid black 1px;
+color: #07415d;
+display: inline-block;
+margin: 10px;
+font-weight: bold;
+
+
+}
+
+
+.first , .second{
+    background-color: #d4a956;
+    padding : 5px 20px ;
+    margin:5px;
+    font-weight: bold;
+    display: inline-block;
+    color:#07415d
+}
